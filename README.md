@@ -74,9 +74,3 @@ Programmet oppretter/bruker filen `TrainingDB.db` i samme mappe som skriptet.
 - 4 spinning-aktiviteter (Spin60, Spin45, Spin 4x4, Spin 8x3)
 - Økter fordelt på januar, februar og en full uke i mars 2026
 - Bookinger som dekker flere av use case-ene (innsjekket historikk, ventende bookinger, delte økter mellom brukere)
-
-## Videre arbeid
-
-- Fylle ut `OpeningHour`, `StaffSchedule`, `Club`, `Membership` og `RoomReservation` med testdata
-- Legge til flere aktivitetstyper (styrke, yoga osv.) utover spinning
-- Bygge et enkelt grensesnitt (web/CLI) rundt de eksisterende funksjonene
